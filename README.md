@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/PHP%20with%20Oracle-purple?style=for-the-badge&logo=php&logoColor=red)
+
 
 ### Tools:
 <!-- Enumera las herramientas de desarrollo frontend, backend y bases de datos -->
