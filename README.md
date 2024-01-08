@@ -16,7 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql&logoColor=yellow)&nbsp;
+![css3](https://img.shields.io/badge/css3-brown?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 
 ### Tools:
 <!-- Enumera las herramientas de desarrollo frontend, backend y bases de datos -->
